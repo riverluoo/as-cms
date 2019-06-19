@@ -1,1 +1,1 @@
-## as-cms
+## [![Build Status](https://travis-ci.org/riverluoo/as-cms.svg?branch=master)](https://travis-ci.org/riverluoo/as-cms)
